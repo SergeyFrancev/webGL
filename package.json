@@ -1,0 +1,15 @@
+{
+  "name": "web_gl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node ./client.static.server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-static": "^0.7.7"
+  }
+}

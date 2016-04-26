@@ -1,0 +1,22 @@
+{
+  "name": "web-gl",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "HectorTwist <drshteyn@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {},
+  "dependencies": {
+    "gl-matrix": "^2.3.2",
+    "lodash": "^4.11.2"
+  }
+}
