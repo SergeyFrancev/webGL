@@ -191,7 +191,7 @@
 				var chS = dt / (SPEED / 2);
 				lastRad += ch;
 				mat4.rotateY(cubeMatrix, cubeMatrix, chS);
-				mat4.rotateZ(cubeMatrix, cubeMatrix, ch);
+				//mat4.rotateZ(cubeMatrix, cubeMatrix, ch);
 				//var cof = ((lastRad * 100)/deg2rad(90)/100).toFixed(2);
 				//if(cof > 1)
 				//	cof = 1;

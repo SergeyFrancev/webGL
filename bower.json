@@ -17,6 +17,7 @@
   "devDependencies": {},
   "dependencies": {
     "gl-matrix": "^2.3.2",
-    "lodash": "^4.11.2"
+    "lodash": "^4.11.2",
+    "babel-polyfill": "^0.0.1"
   }
 }
